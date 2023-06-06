@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 CEO of DRIVENecosystem | Head of Development at Rev3al<br>🔮 When I am bored I write smart contracts in YUL<br>🙏🏻 Open for freelance work (not full-time positions)
+🤓 CEO of DRIVENecosystem | Head of Development at Rev3al<br>🔮 When I am bored I write smart contracts in YUL<br>🙏🏻 Open for work
 
 
 ## 🌐 Socials:
