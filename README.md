@@ -4,7 +4,7 @@
 
 I run product engineering end to end: technology strategy, architecture, cloud, security, delivery and a distributed team. I still ship code every week.
 
-Timisoara, Romania · [LinkedIn](https://www.linkedin.com/in/socardepaul/) · [X](https://x.com/web3enhanced)
+Timisoara, Romania · [LinkedIn](https://www.linkedin.com/in/socardepaul/) 
 
 ---
 
